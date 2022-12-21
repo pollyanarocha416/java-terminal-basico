@@ -16,6 +16,7 @@ public class MinhaClasse {
         // ola me chamo Polly rocha
         // Tenho 21 anos de idade
         // minha autura é 1.6cm
-
+        // por conta do Launch, o args foram declarados dentro dele
+        // agora ele ta sendo execultado aqui na IDE
     }
 }
